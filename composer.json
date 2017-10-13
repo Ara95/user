@@ -1,5 +1,5 @@
 {
-    "name": "ara",
+    "name": "ara/user",
     "type": "library",
     "description": "Anax ara module.",
     "keywords": ["boilerplate", "framework", "mvc", "micro", "education"],
