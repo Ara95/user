@@ -37,15 +37,4 @@
         "anax/htmlform": "^1.0"
     }
 
-    {
-    "require": {
-        "ara/user": "dev-master"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/ara95/usr.git"
-        }
-    ]
-}
 }
