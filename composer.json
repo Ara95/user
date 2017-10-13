@@ -1,0 +1,39 @@
+{
+    "name": "ara",
+    "type": "library",
+    "description": "Anax ara module.",
+    "keywords": ["boilerplate", "framework", "mvc", "micro", "education"],
+    "homepage": "https://dbwebb.se/anax",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ara Nourbakhsh",
+            "email": "ara.nourbakhsh@gmail.com",
+            "homepage": "https://dbwebb.se",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "issues": "https://github.com/Ara95/users/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anax\\": "src/",
+            "Ara\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6",
+        "anax/configure": "^1.0",
+        "anax/database": "^1.0",
+        "anax/di": "^1.0",
+        "anax/page": "^1.0",
+        "anax/response": "^1.0",
+        "anax/request": "^1.0",
+        "anax/router": "^1.0",
+        "anax/session": "^1.0",
+        "anax/url": "^1.0",
+        "anax/view": "^1.0",
+        "anax/htmlform": "^1.0"
+    }
+}
