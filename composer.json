@@ -14,7 +14,7 @@
         }
     ],
     "support": {
-        "issues": "issues": "https://github.com/Ara95/users/issues"
+        "issues": "issues": "https://github.com/Ara95/user/issues"
     },
     "autoload": {
         "psr-4": {
@@ -36,4 +36,16 @@
         "anax/view": "^1.0",
         "anax/htmlform": "^1.0"
     }
+
+    {
+    "require": {
+        "ara/user": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/ara95/usr.git"
+        }
+    ]
+}
 }
