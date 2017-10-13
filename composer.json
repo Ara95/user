@@ -14,7 +14,7 @@
         }
     ],
     "support": {
-        "issues": "issues": "https://github.com/Ara95/user/issues"
+        "issues": "https://github.com/ara95/user/issues"
     },
     "autoload": {
         "psr-4": {
